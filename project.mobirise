@@ -87,9 +87,9 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacityOverlay": "0",
-      "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>. Rejecting cookies may make some features unavailable.",
-      "textButton": "ACCEPT",
+      "bgOpacity": "87",
+      "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
       "rejectText": "REJECT"
     },
     "gdpr": {
@@ -108,7 +108,7 @@
     "publishEditFolder": false,
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlertType": "2"
+    "cookiesAlertType": "1"
   },
   "pages": {
     "index.html": {
